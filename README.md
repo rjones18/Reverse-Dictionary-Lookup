@@ -1,2 +1,2 @@
 # Reverse-Dictionary-Lookup
-This code runs a function that takes a dictionary and a value and returns the corresponding key.
+This code if run uses a function that takes a dictionary and a value and returns the corresponding key.
